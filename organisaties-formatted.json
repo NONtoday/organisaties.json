@@ -1452,8 +1452,8 @@
                 "oidcurls": [
                     {
                         "omschrijving": "VPCO Azure",
-                        "url": "https://login.microsoftonline.com/vpco.org/v2.0",
-                        "domain_hint": "vpco.org"
+                        "url": "https://login.microsoftonline.com/vpco.edu.cw/v2.0",
+                        "domain_hint": "vpco.edu.cw"
                     }
                 ]
             },
@@ -1558,6 +1558,18 @@
                 "naam": "STGS - Stedelijk Gymnasium Schiedam",
                 "plaats": "SCHIEDAM",
                 "oidcurls": []
+            },
+            {
+                "uuid": "9d2b1c4e-d199-46d3-bf23-b854fc25293e",
+                "naam": "DOS-Curaçao",
+                "plaats": "",
+                "oidcurls": [
+                    {
+                        "omschrijving": "Kolegio Alejandro Paulo Azure",
+                        "url": "https://login.microsoftonline.com/dos.edu.cw/v2.0",
+                        "domain_hint": "dos.edu.cw"
+                    }
+                ]
             },
             {
                 "uuid": "5217a88f-0176-4865-bbe7-a916a0aef525",
