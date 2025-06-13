@@ -991,6 +991,11 @@
                 "plaats": "HOOGEVEEN",
                 "oidcurls": [
                     {
+                        "omschrijving": "RSG Wolfsbos Entra",
+                        "url": "https://login.microsoftonline.com/Wolfsbos.onmicrosoft.com/v2.0",
+                        "domain_hint": "Wolfsbos.onmicrosoft.com"
+                    },
+                    {
                         "omschrijving": "RSG Wolfsbos OIDC WIS",
                         "url": "https://beheer.wolfsbos.nl",
                         "domain_hint": ""
