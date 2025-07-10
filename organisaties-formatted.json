@@ -1335,6 +1335,11 @@
                         "omschrijving": "maaswaalcollege.nl",
                         "url": "https://login.microsoftonline.com/maaswaalcollege.nl/v2.0",
                         "domain_hint": "maaswaalcollege.nl"
+                    },
+                    {
+                        "omschrijving": "voCampus login",
+                        "url": "https://login.microsoftonline.com/e04a022f-ffab-4fed-8b3c-617ffc37b466/v2.0",
+                        "domain_hint": "e04a022f-ffab-4fed-8b3c-617ffc37b466"
                     }
                 ]
             },
