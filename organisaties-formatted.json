@@ -111,7 +111,13 @@
                 "uuid": "f94e97f7-f472-4848-a09b-b09281809c97",
                 "naam": "Werkenrode School",
                 "plaats": "GROESBEEK",
-                "oidcurls": []
+                "oidcurls": [
+                    {
+                        "omschrijving": "OnderwijsGroep Oost-Brabant",
+                        "url": "https://login.microsoftonline.com/onderwijsgroepoostbrabant.nl/v2.0",
+                        "domain_hint": "onderwijsgroepoostbrabant.nl"
+                    }
+                ]
             },
             {
                 "uuid": "19d3b216-cbc7-42ed-a8fa-d3d4d1862129",
@@ -796,7 +802,13 @@
                 "uuid": "762dc430-8168-42d5-978f-1df262da3d9a",
                 "naam": "Loket Zwijndrechtse Waard",
                 "plaats": "RIDDERKERK",
-                "oidcurls": []
+                "oidcurls": [
+                    {
+                        "omschrijving": "Loket Zwijndrecht",
+                        "url": "https://login.microsoftonline.com/myloketzwijndrecht.nl/v2.0",
+                        "domain_hint": "myloketzwijndrecht.nl"
+                    }
+                ]
             },
             {
                 "uuid": "ee5e4dfe-bb9c-46c9-9756-c935bad8db5b",
