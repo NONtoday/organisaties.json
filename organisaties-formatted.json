@@ -2001,18 +2001,6 @@
                 ]
             },
             {
-                "uuid": "cffcbd05-ab94-49d7-8015-763dec98e2b1",
-                "naam": "DevOps College",
-                "plaats": "DEVENTER",
-                "oidcurls": [
-                    {
-                        "omschrijving": "som.today",
-                        "url": "https://login.microsoftonline.com/som.today/v2.0",
-                        "domain_hint": "som.today"
-                    }
-                ]
-            },
-            {
                 "uuid": "e3ab53f2-9585-47c9-96e9-a4f9fe77ec95",
                 "naam": "Mercurius College",
                 "plaats": "DELFT",
@@ -2365,6 +2353,18 @@
                         "domain_hint": ""
                     }
                 ]
+            },
+            {
+                "uuid": "4f0fa84b-f282-4946-88e3-f6c942d256b5",
+                "naam": "Openbaar Onderwijs Groningen",
+                "plaats": "GRONINGEN",
+                "oidcurls": []
+            },
+            {
+                "uuid": "b68744bf-e417-40ff-9be1-109e6437520b",
+                "naam": "Novum Saeculum Lyceum",
+                "plaats": "TILBURG",
+                "oidcurls": []
             }
         ]
     }
