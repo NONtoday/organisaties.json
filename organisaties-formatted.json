@@ -551,18 +551,6 @@
                 ]
             },
             {
-                "uuid": "95c65e21-70b8-4289-9d43-e6a1f8c721a5",
-                "naam": "Somtoday Consultants",
-                "plaats": "DEVENTER",
-                "oidcurls": [
-                    {
-                        "omschrijving": "Hondsrug College OIDC WIS",
-                        "url": "https://studio01.school-studios.wis.nl",
-                        "domain_hint": ""
-                    }
-                ]
-            },
-            {
                 "uuid": "ec284fda-3d0f-4f54-a77e-91d94b94ff1a",
                 "naam": "Lyceum Schravenlant",
                 "plaats": "SCHIEDAM",
@@ -2326,23 +2314,6 @@
                 ]
             },
             {
-                "uuid": "068c645f-4a0b-42ed-9320-988c533591f0",
-                "naam": "Test College",
-                "plaats": "DEVENTER",
-                "oidcurls": [
-                    {
-                        "omschrijving": "Azure CSWalcheren",
-                        "url": "https://login.microsoftonline.com/257eb968-a984-464c-bd33-ed5c72b8767b/v2.0",
-                        "domain_hint": "257eb968-a984-464c-bd33-ed5c72b8767b"
-                    },
-                    {
-                        "omschrijving": "Topicus education test",
-                        "url": "https://accounts.google.com",
-                        "domain_hint": ""
-                    }
-                ]
-            },
-            {
                 "uuid": "ed87a425-e3cb-4919-8ea7-70124600ec4c",
                 "naam": "Kangoeroe High",
                 "plaats": "",
@@ -2364,6 +2335,18 @@
                 "uuid": "b68744bf-e417-40ff-9be1-109e6437520b",
                 "naam": "Novum Saeculum Lyceum",
                 "plaats": "TILBURG",
+                "oidcurls": []
+            },
+            {
+                "uuid": "0f83fcf3-3e8a-400e-aa56-f7734c88be72",
+                "naam": "Somtoday Consultants",
+                "plaats": "DEVENTER",
+                "oidcurls": []
+            },
+            {
+                "uuid": "8466ea37-f119-4f6f-a8b4-05aeb5f0192d",
+                "naam": "Test College",
+                "plaats": "DEVENTER",
                 "oidcurls": []
             }
         ]
