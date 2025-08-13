@@ -2329,7 +2329,13 @@
                 "uuid": "4f0fa84b-f282-4946-88e3-f6c942d256b5",
                 "naam": "Openbaar Onderwijs Groningen",
                 "plaats": "GRONINGEN",
-                "oidcurls": []
+                "oidcurls": [
+                    {
+                        "omschrijving": "Openbaar Onderwijs Groningen leerling/medewerker",
+                        "url": "https://login.microsoftonline.com/o2g2.onmicrosoft.com/v2.0",
+                        "domain_hint": "o2g2.onmicrosoft.com"
+                    }
+                ]
             },
             {
                 "uuid": "b68744bf-e417-40ff-9be1-109e6437520b",
