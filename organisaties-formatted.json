@@ -2354,6 +2354,18 @@
                 "naam": "Test College",
                 "plaats": "DEVENTER",
                 "oidcurls": []
+            },
+            {
+                "uuid": "0404a80f-89d2-4754-9739-be8d91f8822c",
+                "naam": "Emelwerda College",
+                "plaats": "EMMELOORD",
+                "oidcurls": [
+                    {
+                        "omschrijving": "Azure Emelwerda College",
+                        "url": "https://login.microsoftonline.com/emelwerda.nl/v2.0",
+                        "domain_hint": "emelwerda.nl"
+                    }
+                ]
             }
         ]
     }
