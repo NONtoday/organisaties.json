@@ -113,9 +113,9 @@
                 "plaats": "GROESBEEK",
                 "oidcurls": [
                     {
-                        "omschrijving": "OnderwijsGroep Oost-Brabant",
-                        "url": "https://login.microsoftonline.com/onderwijsgroepoostbrabant.nl/v2.0",
-                        "domain_hint": "onderwijsgroepoostbrabant.nl"
+                        "omschrijving": "Onderwijsgroep Punt Speciaal Azure",
+                        "url": "https://login.microsoftonline.com/PuntSpeciaal.onmicrosoft.com/v2.0",
+                        "domain_hint": "PuntSpeciaal.onmicrosoft.com"
                     }
                 ]
             },
@@ -775,14 +775,9 @@
                 "plaats": "-",
                 "oidcurls": [
                     {
-                        "omschrijving": "Medewerkers Greijdanus",
+                        "omschrijving": "Medewerkers/Ouders Greijdanus",
                         "url": "https://login.microsoftonline.com/greijdanus.nl/v2.0",
                         "domain_hint": "greijdanus.nl"
-                    },
-                    {
-                        "omschrijving": "Ouders Greijdanus",
-                        "url": "https://login.goon.nl/nidp/oauth/nam",
-                        "domain_hint": ""
                     }
                 ]
             },
