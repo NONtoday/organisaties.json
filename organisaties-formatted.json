@@ -1356,7 +1356,7 @@
                 "plaats": "LEEK",
                 "oidcurls": [
                     {
-                        "omschrijving": "RSG de Borgen Azure",
+                        "omschrijving": "rsg de Borgen Azure",
                         "url": "https://login.microsoftonline.com/mijnrsgdeborgen.onmicrosoft.com/v2.0",
                         "domain_hint": "mijnrsgdeborgen.onmicrosoft.com"
                     }
