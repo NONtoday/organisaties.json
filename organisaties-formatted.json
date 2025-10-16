@@ -2388,7 +2388,13 @@
                 "uuid": "8466ea37-f119-4f6f-a8b4-05aeb5f0192d",
                 "naam": "Test College",
                 "plaats": "DEVENTER",
-                "oidcurls": []
+                "oidcurls": [
+                    {
+                        "omschrijving": "Topicus education test",
+                        "url": "https://accounts.google.com",
+                        "domain_hint": ""
+                    }
+                ]
             },
             {
                 "uuid": "0404a80f-89d2-4754-9739-be8d91f8822c",
