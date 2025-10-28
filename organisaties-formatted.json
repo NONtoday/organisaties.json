@@ -101,11 +101,6 @@
                         "omschrijving": "CVO Rotterdam",
                         "url": "https://login.microsoftonline.com/cvorotterdam.onmicrosoft.com/v2.0",
                         "domain_hint": "cvorotterdam.onmicrosoft.com"
-                    },
-                    {
-                        "omschrijving": "Melanchthon",
-                        "url": "https://login.microsoftonline.com/melanchthon.nl/v2.0",
-                        "domain_hint": "melanchthon.nl"
                     }
                 ]
             },
