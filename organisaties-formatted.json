@@ -1058,7 +1058,13 @@
                 "uuid": "fdb8e7f8-27f4-465f-b85d-ab60a5339ec3",
                 "naam": "Attendiz",
                 "plaats": "ENSCHEDE",
-                "oidcurls": []
+                "oidcurls": [
+                    {
+                        "omschrijving": "Attendiz Azure",
+                        "url": "https://login.microsoftonline.com/attendiz.nl/v2.0",
+                        "domain_hint": "attendiz.nl"
+                    }
+                ]
             },
             {
                 "uuid": "e832f8ec-ceca-4be8-bb9d-62a41e86b96d",
@@ -1346,11 +1352,6 @@
                 "naam": "Maaswaal College",
                 "plaats": "WIJCHEN",
                 "oidcurls": [
-                    {
-                        "omschrijving": "maaswaalcollege.nl",
-                        "url": "https://login.microsoftonline.com/maaswaalcollege.nl/v2.0",
-                        "domain_hint": "maaswaalcollege.nl"
-                    },
                     {
                         "omschrijving": "voCampus login",
                         "url": "https://login.microsoftonline.com/e04a022f-ffab-4fed-8b3c-617ffc37b466/v2.0",
