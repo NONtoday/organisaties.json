@@ -1745,11 +1745,6 @@
                 "plaats": "ROTTERDAM",
                 "oidcurls": [
                     {
-                        "omschrijving": "Azure CSG Calvijn",
-                        "url": "https://login.microsoftonline.com/educalvijn.onmicrosoft.com/v2.0",
-                        "domain_hint": "educalvijn.onmicrosoft.com"
-                    },
-                    {
                         "omschrijving": "CVO Rotterdam",
                         "url": "https://login.microsoftonline.com/cvorotterdam.onmicrosoft.com/v2.0",
                         "domain_hint": "cvorotterdam.onmicrosoft.com"
@@ -1882,7 +1877,7 @@
             },
             {
                 "uuid": "3190281f-d2b7-4cb7-8613-ae128c4fb9fe",
-                "naam": "Carmel Pvo",
+                "naam": "OUD: Carmel Pvo",
                 "plaats": "-",
                 "oidcurls": [
                     {
@@ -1916,7 +1911,7 @@
             },
             {
                 "uuid": "2b4cbfab-8c43-425e-8bbb-61dd724d1324",
-                "naam": "Comenius College",
+                "naam": "Comenius",
                 "plaats": "CAPELLE AAN DEN IJSSEL",
                 "oidcurls": [
                     {
@@ -1941,11 +1936,6 @@
                 "naam": "Portus",
                 "plaats": "ROTTERDAM",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Azure CSG Calvijn",
-                        "url": "https://login.microsoftonline.com/educalvijn.onmicrosoft.com/v2.0",
-                        "domain_hint": "educalvijn.onmicrosoft.com"
-                    },
                     {
                         "omschrijving": "CVO Rotterdam",
                         "url": "https://login.microsoftonline.com/cvorotterdam.onmicrosoft.com/v2.0",
@@ -2412,6 +2402,40 @@
                         "omschrijving": "Azure Emelwerda College",
                         "url": "https://login.microsoftonline.com/emelwerda.nl/v2.0",
                         "domain_hint": "emelwerda.nl"
+                    }
+                ]
+            },
+            {
+                "uuid": "122586d2-b66e-4da4-8ca0-a65bb558b1b0",
+                "naam": "Carmel College West Betuwe",
+                "plaats": "-",
+                "oidcurls": [
+                    {
+                        "omschrijving": "Carmel",
+                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
+                        "domain_hint": ""
+                    },
+                    {
+                        "omschrijving": "Stichting Carmel SSO",
+                        "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
+                        "domain_hint": "carmel.nl"
+                    }
+                ]
+            },
+            {
+                "uuid": "d488e8ab-f9f7-424e-9a0a-22be8bd54800",
+                "naam": "Carmel Lyceum Hurdegaryp",
+                "plaats": "-",
+                "oidcurls": [
+                    {
+                        "omschrijving": "Carmel",
+                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
+                        "domain_hint": ""
+                    },
+                    {
+                        "omschrijving": "Stichting Carmel SSO",
+                        "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
+                        "domain_hint": "carmel.nl"
                     }
                 ]
             }
