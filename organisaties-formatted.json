@@ -1813,6 +1813,11 @@
                         "omschrijving": "iHUB",
                         "url": "https://login.microsoftonline.com/be970002-d880-4b19-8b99-7dae41df9b2d/v2.0",
                         "domain_hint": "be970002-d880-4b19-8b99-7dae41df9b2d"
+                    },
+                    {
+                        "omschrijving": "IHUB Onderwijs Google",
+                        "url": "https://accounts.google.com",
+                        "domain_hint": ""
                     }
                 ]
             },
