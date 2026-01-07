@@ -518,18 +518,6 @@
                 "oidcurls": []
             },
             {
-                "uuid": "b7544d5f-e069-4fa7-8a18-9f46c7c56d47",
-                "naam": "Ostrea Lyceum",
-                "plaats": "GOES",
-                "oidcurls": [
-                    {
-                        "omschrijving": "Ostrea Lyceum",
-                        "url": "https://login.microsoftonline.com/ostrealyceum.nl/v2.0",
-                        "domain_hint": "ostrealyceum.nl"
-                    }
-                ]
-            },
-            {
                 "uuid": "722a84e2-548d-4cc7-979e-84f96a127492",
                 "naam": "de Werkplaats Kindergemeenschap",
                 "plaats": "BILTHOVEN",
@@ -1753,18 +1741,6 @@
                         "omschrijving": "Zuider Gymnasium OIDC WIS",
                         "url": "https://beheer.zuidergymnasium.nl",
                         "domain_hint": ""
-                    }
-                ]
-            },
-            {
-                "uuid": "5369852c-1747-47f1-8af6-be80c9aecc9e",
-                "naam": "De Bolster",
-                "plaats": "VOORST GEM VOORST",
-                "oidcurls": [
-                    {
-                        "omschrijving": "De Onderwijsspecialisten",
-                        "url": "https://login.microsoftonline.com/do31.onmicrosoft.com/v2.0",
-                        "domain_hint": "do31.onmicrosoft.com"
                     }
                 ]
             },
