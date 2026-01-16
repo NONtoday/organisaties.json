@@ -483,7 +483,7 @@
             },
             {
                 "uuid": "2ecf1883-7390-4129-a064-11e069dc3856",
-                "naam": "Saltho Onderwijs",
+                "naam": "Stichting Koraal Onderwijs (Oost-Brabant)",
                 "plaats": "'S-HERTOGENBOSCH",
                 "oidcurls": [
                     {
@@ -501,8 +501,8 @@
             },
             {
                 "uuid": "702cf71b-e04f-4d90-802f-6fc00957e9c8",
-                "naam": "Het Driespan",
-                "plaats": "OOSTERHOUT NB",
+                "naam": "Stichting Koraal Onderwijs (West-Brabant)",
+                "plaats": "BREDA",
                 "oidcurls": [
                     {
                         "omschrijving": "Koraalgroep",
