@@ -1857,23 +1857,6 @@
                 ]
             },
             {
-                "uuid": "3190281f-d2b7-4cb7-8613-ae128c4fb9fe",
-                "naam": "OUD: Carmel Pvo",
-                "plaats": "-",
-                "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
-                        "omschrijving": "Stichting Carmel SSO",
-                        "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
-                        "domain_hint": "carmel.nl"
-                    }
-                ]
-            },
-            {
                 "uuid": "52ced597-24df-4cae-8983-f0c760687043",
                 "naam": "Fritz Redlschool",
                 "plaats": "UTRECHT",
