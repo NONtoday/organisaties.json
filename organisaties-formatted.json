@@ -182,11 +182,6 @@
                 "plaats": "HAREN GN",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -199,11 +194,6 @@
                 "plaats": "ENSCHEDE",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -215,11 +205,6 @@
                 "naam": "Carmelcollege Emmen",
                 "plaats": "EMMEN",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -250,11 +235,6 @@
                 "plaats": "GROENLO",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -266,11 +246,6 @@
                 "naam": "PIUS X COLLEGE",
                 "plaats": "ALMELO",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -284,11 +259,6 @@
                 "plaats": "GOUDA",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -300,11 +270,6 @@
                 "naam": "Etty Hillesum Lyceum",
                 "plaats": "DEVENTER",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -318,11 +283,6 @@
                 "plaats": "RAALTE",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -334,11 +294,6 @@
                 "naam": "Twents Carmel College",
                 "plaats": "OLDENZAAL",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -352,11 +307,6 @@
                 "plaats": "OSS",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -368,11 +318,6 @@
                 "naam": "R.-K. Sg. Canisius",
                 "plaats": "ALMELO",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -1716,11 +1661,6 @@
                 "plaats": "HENGELO OV",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -1820,11 +1760,6 @@
                 "naam": "Alma College",
                 "plaats": "ALMELO",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
@@ -2375,11 +2310,6 @@
                 "plaats": "GELDERMALSEN",
                 "oidcurls": [
                     {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
-                    {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
                         "domain_hint": "carmel.nl"
@@ -2391,11 +2321,6 @@
                 "naam": "Carmel Lyceum Hurdegaryp",
                 "plaats": "HURDEGARYP",
                 "oidcurls": [
-                    {
-                        "omschrijving": "Carmel",
-                        "url": "https://idpcluster.stichtingcarmelcollege.nl/nidp/oauth/nam",
-                        "domain_hint": ""
-                    },
                     {
                         "omschrijving": "Stichting Carmel SSO",
                         "url": "https://login.microsoftonline.com/carmel.nl/v2.0",
