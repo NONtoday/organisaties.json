@@ -81,11 +81,6 @@
                         "domain_hint": "cvorotterdam.onmicrosoft.com"
                     },
                     {
-                        "omschrijving": "marnix gymnasium",
-                        "url": "https://login.microsoftonline.com/marnixgymnasium.onmicrosoft.com/v2.0",
-                        "domain_hint": "marnixgymnasium.onmicrosoft.com"
-                    },
-                    {
                         "omschrijving": "Marnix Gymnasium OIDC WIS",
                         "url": "https://beheer.marnixgymnasium.nl",
                         "domain_hint": ""
