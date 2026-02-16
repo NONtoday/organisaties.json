@@ -1804,11 +1804,6 @@
                 "plaats": "CAPELLE AAN DEN IJSSEL",
                 "oidcurls": [
                     {
-                        "omschrijving": "Comenius College",
-                        "url": "https://login.microsoftonline.com/comeniuscvo.onmicrosoft.com/v2.0",
-                        "domain_hint": "comeniuscvo.onmicrosoft.com"
-                    },
-                    {
                         "omschrijving": "Comenius OIDC WIS",
                         "url": "https://beheer.comenius.nl",
                         "domain_hint": ""
