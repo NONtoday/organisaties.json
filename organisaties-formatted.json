@@ -790,14 +790,9 @@
                 "plaats": "DORDRECHT",
                 "oidcurls": [
                     {
-                        "omschrijving": "JDW Azure",
+                        "omschrijving": "Johan de Witt-Gymnasium inloggen leerlingen en medewerkers Azure",
                         "url": "https://login.microsoftonline.com/jdw.nl/v2.0",
                         "domain_hint": "jdw.nl"
-                    },
-                    {
-                        "omschrijving": "Johan de Witt Gymnasium OIDC WIS",
-                        "url": "https://beheer.jdw.nl",
-                        "domain_hint": ""
                     }
                 ]
             },
