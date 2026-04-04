@@ -1093,12 +1093,12 @@
                 "plaats": "-",
                 "oidcurls": [
                     {
-                        "omschrijving": "Markland College (06XL)",
-                        "url": "https://login.microsoftonline.com/596ef504-a68b-463d-b4a9-10cc240c0a9f/v2.0",
-                        "domain_hint": "596ef504-a68b-463d-b4a9-10cc240c0a9f"
+                        "omschrijving": "Markland College",
+                        "url": "https://login.microsoftonline.com/marklandcollege.nl/v2.0",
+                        "domain_hint": "marklandcollege.nl"
                     },
                     {
-                        "omschrijving": "Markland via KSE",
+                        "omschrijving": "Novia Onderwijs",
                         "url": "https://login.microsoftonline.com/ksesite.onmicrosoft.com/v2.0",
                         "domain_hint": "ksesite.onmicrosoft.com"
                     }
@@ -1711,14 +1711,9 @@
                 "plaats": "ROTTERDAM",
                 "oidcurls": [
                     {
-                        "omschrijving": "iHUB",
+                        "omschrijving": "iHUB Azure medewerkers",
                         "url": "https://login.microsoftonline.com/be970002-d880-4b19-8b99-7dae41df9b2d/v2.0",
                         "domain_hint": "be970002-d880-4b19-8b99-7dae41df9b2d"
-                    },
-                    {
-                        "omschrijving": "IHUB Onderwijs Google",
-                        "url": "https://accounts.google.com",
-                        "domain_hint": ""
                     }
                 ]
             },
@@ -2329,6 +2324,12 @@
                 "uuid": "2ea28e09-5484-4fe5-a745-94dffb627350",
                 "naam": "SAM college",
                 "plaats": "HEESCH",
+                "oidcurls": []
+            },
+            {
+                "uuid": "d23f2049-761a-4e00-b2d3-9458dad31607",
+                "naam": "Kairos College",
+                "plaats": "AMSTERDAM",
                 "oidcurls": []
             }
         ]
