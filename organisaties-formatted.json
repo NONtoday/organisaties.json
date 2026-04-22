@@ -7,11 +7,6 @@
                 "plaats": "CAPELLE AAN DEN IJSSEL",
                 "oidcurls": [
                     {
-                        "omschrijving": "Accent Azure",
-                        "url": "https://login.microsoftonline.com/cvoaccent.onmicrosoft.com/v2.0",
-                        "domain_hint": "cvoaccent.onmicrosoft.com"
-                    },
-                    {
                         "omschrijving": "CVO Rotterdam",
                         "url": "https://login.microsoftonline.com/cvorotterdam.onmicrosoft.com/v2.0",
                         "domain_hint": "cvorotterdam.onmicrosoft.com"
