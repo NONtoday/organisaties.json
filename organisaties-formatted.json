@@ -1212,7 +1212,7 @@
                 "plaats": "MIDDELBURG",
                 "oidcurls": [
                     {
-                        "omschrijving": "Azure Mondia Scholengroep (Scheldemond en Nehalennia)",
+                        "omschrijving": "VO-Walcheren Azure",
                         "url": "https://login.microsoftonline.com/mondiascholengroep.onmicrosoft.com/v2.0",
                         "domain_hint": "mondiascholengroep.onmicrosoft.com"
                     }
@@ -1230,7 +1230,7 @@
                 "plaats": "MIDDELBURG",
                 "oidcurls": [
                     {
-                        "omschrijving": "Azure CSWalcheren",
+                        "omschrijving": "VO-Walcheren Azure",
                         "url": "https://login.microsoftonline.com/257eb968-a984-464c-bd33-ed5c72b8767b/v2.0",
                         "domain_hint": "257eb968-a984-464c-bd33-ed5c72b8767b"
                     }
