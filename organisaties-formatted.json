@@ -1089,8 +1089,8 @@
                 "oidcurls": [
                     {
                         "omschrijving": "Markland College",
-                        "url": "https://login.microsoftonline.com/marklandcollege.nl/v2.0",
-                        "domain_hint": "marklandcollege.nl"
+                        "url": "https://login.microsoftonline.com/markland.nl/v2.0",
+                        "domain_hint": "markland.nl"
                     },
                     {
                         "omschrijving": "Novia Onderwijs",
@@ -2191,19 +2191,14 @@
                 "plaats": "-",
                 "oidcurls": [
                     {
-                        "omschrijving": "Willem van Oranje OIDC WIS",
-                        "url": "https://beheer.het-willem.nl",
-                        "domain_hint": ""
-                    },
-                    {
-                        "omschrijving": "Willem van Oranje Onderwijsgroep noord",
+                        "omschrijving": "Willem van Oranje -  Medewerkers & Leerlingen",
                         "url": "https://login.microsoftonline.com/cvoav.onmicrosoft.com/v2.0",
                         "domain_hint": "cvoav.onmicrosoft.com"
                     },
                     {
-                        "omschrijving": "Willem van Oranje Onderwijsgroep zuid",
-                        "url": "https://login.microsoftonline.com/wvoranje.nl/v2.0",
-                        "domain_hint": "wvoranje.nl"
+                        "omschrijving": "Willem van Oranje - Ouders & verzorgers",
+                        "url": "https://beheer.het-willem.nl",
+                        "domain_hint": ""
                     }
                 ]
             },
