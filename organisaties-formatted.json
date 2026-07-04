@@ -2191,14 +2191,14 @@
                 "plaats": "-",
                 "oidcurls": [
                     {
+                        "omschrijving": "Willem van Oranje College Ouderportaal",
+                        "url": "https://beheer.het-willem.nl",
+                        "domain_hint": ""
+                    },
+                    {
                         "omschrijving": "Willem van Oranje -  Medewerkers & Leerlingen",
                         "url": "https://login.microsoftonline.com/cvoav.onmicrosoft.com/v2.0",
                         "domain_hint": "cvoav.onmicrosoft.com"
-                    },
-                    {
-                        "omschrijving": "Willem van Oranje - Ouders & verzorgers",
-                        "url": "https://beheer.het-willem.nl",
-                        "domain_hint": ""
                     }
                 ]
             },
@@ -2320,6 +2320,12 @@
                 "uuid": "d23f2049-761a-4e00-b2d3-9458dad31607",
                 "naam": "Kairos College",
                 "plaats": "AMSTERDAM",
+                "oidcurls": []
+            },
+            {
+                "uuid": "2dc2dbd5-a13d-4764-a41e-28fe77ccc3ba",
+                "naam": "VSO De Pyler",
+                "plaats": "HEERLEN",
                 "oidcurls": []
             }
         ]
