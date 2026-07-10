@@ -2327,6 +2327,24 @@
                 "naam": "VSO De Pyler",
                 "plaats": "HEERLEN",
                 "oidcurls": []
+            },
+            {
+                "uuid": "3d36a0f0-3e1a-4daa-93ce-920f80a3fdf7",
+                "naam": "Scholen aan Zee",
+                "plaats": "DEN HELDER",
+                "oidcurls": [
+                    {
+                        "omschrijving": "Scholen aan Zee leerling/medewerker",
+                        "url": "https://login.microsoftonline.com/scholenaanzee.nl/v2.0",
+                        "domain_hint": "scholenaanzee.nl"
+                    }
+                ]
+            },
+            {
+                "uuid": "93586a11-957b-40c2-9534-7d6145074c1c",
+                "naam": "Berechja College",
+                "plaats": "URK",
+                "oidcurls": []
             }
         ]
     }
