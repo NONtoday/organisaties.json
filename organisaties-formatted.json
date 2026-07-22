@@ -1213,8 +1213,8 @@
                 "oidcurls": [
                     {
                         "omschrijving": "VO-Walcheren Azure",
-                        "url": "https://login.microsoftonline.com/mondiascholengroep.onmicrosoft.com/v2.0",
-                        "domain_hint": "mondiascholengroep.onmicrosoft.com"
+                        "url": "https://login.microsoftonline.com/vowalcheren.nl/v2.0",
+                        "domain_hint": "vowalcheren.nl"
                     }
                 ]
             },
@@ -1231,8 +1231,8 @@
                 "oidcurls": [
                     {
                         "omschrijving": "VO-Walcheren Azure",
-                        "url": "https://login.microsoftonline.com/257eb968-a984-464c-bd33-ed5c72b8767b/v2.0",
-                        "domain_hint": "257eb968-a984-464c-bd33-ed5c72b8767b"
+                        "url": "https://login.microsoftonline.com/vowalcheren.nl/v2.0",
+                        "domain_hint": "vowalcheren.nl"
                     }
                 ]
             },
